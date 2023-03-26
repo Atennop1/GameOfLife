@@ -12,6 +12,7 @@ This is a simple implementation of "Game of Life" written in C#. A golden classi
  - Single-layer architecture as a clean model
  - Procedural main algorithm decorated with delicious **OOP**
  - Project was written in **1 hour**
+ - My first practice in popular programming tasks
  
  ## Conclusion
 
